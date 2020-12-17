@@ -1,5 +1,7 @@
 p {
-	font-size: 120%;
-	font-family: "Times new roman";
+	font-size: 75%;
+	font-family: "Times new roman",sans;
 	background-color: #0000ff;
+	text-align: center;
+	font-weight: 900;
 }
